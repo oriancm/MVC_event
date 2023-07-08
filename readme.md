@@ -38,7 +38,7 @@ En fonction de la réponse, on redirige vers la synthèse de l'evenement show si
 
 la view:
 * edit
-* view/index
+* create
 
 sont des formulaires
 
